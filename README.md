@@ -16,8 +16,8 @@ Projeto criado na Semana Sprint Boot React - DevSuperior
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://developer.oracle.com/br/java/)
 [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
 [![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]
 
 
@@ -35,8 +35,6 @@ Projeto criado na Semana Sprint Boot React - DevSuperior
 
 
 
-## Link do Projeto:
+## Link do Projeto: [Netlify](https://dsvendas-rebels.netlify.app/) [Heroku sleeping, wait 10 seconds to start the Backend]
 
-[Netlify](https://dsvendas-rebels.netlify.app/) [Heroku sleeping, wait 10 seconds to start the Backend]
-
-<img src="https://github.com/TiagoABarbosa/sprint_boot-sds3/blob/8287bf7b8cf83d596e952c3d62fc906450adfbcd/frontend/src/assets/img/ds-dark.png" width="150">
+<img src="https://github.com/TiagoABarbosa/sprint_boot-sds3/blob/8287bf7b8cf83d596e952c3d62fc906450adfbcd/frontend/src/assets/img/ds-dark.png" width="300">
