@@ -16,14 +16,20 @@ Projeto criado na Semana Sprint Boot React - DevSuperior
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://developer.oracle.com/br/java/)
 [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
-[![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]
 
 
 
 ### Banco de Dados (SQL):dvd:<p> 
 [![PostGres SQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+  
+  
+ ### Cloud :cloud:<p>
+ [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+ [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
+ 
 
 
 
@@ -31,7 +37,6 @@ Projeto criado na Semana Sprint Boot React - DevSuperior
 
 ## Link do Projeto:
 
-[Sintexa Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Git Download](https://git-scm.com/downloads)
+[Netlify](https://dsvendas-rebels.netlify.app/) [Heroku sleeping, wait 10 seconds to start the Backend]
 
-<img src="https://user-images.githubusercontent.com/82111560/127757027-c5d69b0f-28a8-4697-a493-972253bb3f19.png" width="150">
+<img src="https://github.com/TiagoABarbosa/sprint_boot-sds3/blob/8287bf7b8cf83d596e952c3d62fc906450adfbcd/frontend/src/assets/img/ds-dark.png" width="150">
